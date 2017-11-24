@@ -1,5 +1,5 @@
 
-PhoneGap
+PhoneGap 是Apache下的一个跨平台WEB包装程序。
 =============================================================
 PhoneGap is a development tool that allows web developers to 
 take advantage of the core features in the iPhone, Android,
